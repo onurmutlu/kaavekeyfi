@@ -57,12 +57,32 @@
                     <ul class="dropdown-menu dropdown-with-icons">
                         <li>
                             <a href="/menu-yiyecek">
-                                <i class="pe-7s-comment"></i> Yiyecekler
+                                <i class="pe-7s-comment"></i> Sıcak İçecekler
                             </a>
                         </li>
                         <li>
                             <a href="/menu-icecek">
-                                <i class="pe-7s-news-paper"></i> İçecekler
+                                <i class="pe-7s-news-paper"></i> Kahveler
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/menu-icecek">
+                                <i class="pe-7s-news-paper"></i> Buzlu İçecekler
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/menu-icecek">
+                                <i class="pe-7s-news-paper"></i> Bitkisel Çaylar
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/menu-icecek">
+                                <i class="pe-7s-news-paper"></i> Soğuk İçecekler
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/menu-icecek">
+                                <i class="pe-7s-news-paper"></i> Aperatifler
                             </a>
                         </li>
                     </ul>
