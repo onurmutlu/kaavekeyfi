@@ -213,6 +213,140 @@
 
                 </div>
             </div>
+
+            <div class="space-50"></div>
+            <hr>
+            <div class="space-50"></div>
+
+            <div class="row">
+
+                <div class="col-md-6">
+
+                    <div class="card card-background">
+
+                        <div class="video">
+
+                            <video id="video-source" preload="auto" loop="loop" muted="muted" volume="0">
+
+                                <source src="/assets/video/nyc_skyline.webm" type="video/webm">
+
+                                <source src="/assets/video/nyc_skyline.ogv" type="video/ogg">
+
+                                <source src="/assets/video/nyc_skyline.mp4" type="video/mp4">
+
+                                Video not supported
+
+                            </video>
+
+                            <div class="filter"></div>
+
+                        </div>
+
+                        <div class="content">
+
+                            <p class="category">
+
+                                Featured
+
+                            </p>
+
+                            <h4 class="title">Get Shit Done Kit Pro is here...</h4>
+
+                        </div>
+
+                        <div class="footer">
+
+                            <button type="button" data-video="video-source" data-toggle="video" class="btn btn-neutral btn-round">
+
+                                <i class="fa fa-play"></i> Play
+
+                            </button>
+
+                            <div class="stats pull-right">
+
+                                <i class="fa fa-comment"></i> 68
+
+                            </div>
+
+                            <div class="stats pull-right">
+
+                                <i class="fa fa-heart"></i> 221
+
+                            </div>
+
+                        </div>
+
+                    </div> <!-- end card -->
+
+                </div>
+
+                <div class="col-md-6">
+                    <div class="card card-background">
+
+                        <div class="video">
+
+                            <video id="video-source" preload="auto" loop="loop" muted="muted" volume="0">
+
+                                <source src="assets/video/nyc_skyline.webm" type="video/webm">
+
+                                <source src="assets/video/nyc_skyline.ogv" type="video/ogg">
+
+                                <source src="assets/video/nyc_skyline.mp4" type="video/mp4">
+
+                                Video not supported
+
+                            </video>
+
+                            <div class="filter"></div>
+
+                        </div>
+
+                        <div class="content">
+
+                            <p class="category">
+
+                                Featured
+
+                            </p>
+
+                            <h4 class="title">Get Shit Done Kit Pro is here...</h4>
+
+                        </div>
+
+                        <div class="footer">
+
+                            <button type="button" data-video="video-source" data-toggle="video" class="btn btn-neutral btn-round">
+
+                                <i class="fa fa-play"></i> Play
+
+                            </button>
+
+                            <div class="stats pull-right">
+
+                                <i class="fa fa-comment"></i> 68
+
+                            </div>
+
+                            <div class="stats pull-right">
+
+                                <i class="fa fa-heart"></i> 221
+
+                            </div>
+
+                        </div>
+
+                    </div> <!-- end card -->
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+
         </div>
     </div><!-- section -->
     <div class="space-50"></div>
@@ -420,6 +554,8 @@
         oVal = ($(window).scrollTop() / 3);
         big_image.css('top',oVal);
     };
+
+    gsdk.initVideoCards();
 
 </script>
 
