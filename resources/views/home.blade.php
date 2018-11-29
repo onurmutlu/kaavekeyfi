@@ -13,7 +13,7 @@
 
     <link href="/bootstrap3/css/bootstrap.min.css" rel="stylesheet" />
     <link href="/assets/css/gsdk.css" rel="stylesheet"/>
-    <link href="/assets/css/demo.css" rel="stylesheet" />
+
     <link href="/assets/css/examples.css" rel="stylesheet"/>
 
     <!--     Fonts and icons     -->
