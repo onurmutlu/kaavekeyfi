@@ -13,6 +13,7 @@
 
     <link href="/bootstrap3/css/bootstrap.min.css" rel="stylesheet" />
     <link href="/assets/css/gsdk.css" rel="stylesheet"/>
+    <link href="/assets/css/demo.css" rel="stylesheet" />
     <link href="/assets/css/examples.css" rel="stylesheet"/>
 
     <!--     Fonts and icons     -->
@@ -39,101 +40,14 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse">
             <ul  class="nav navbar-nav navbar-right">
-                <li>
-                    <a href="/about-us">
-                        Hakkımızda
-                    </a>
-                </li>
-                <li>
-                    <a href="/subeler">
-                        Şubeler
-                    </a>
-                </li>
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                        Menü
-                        <b class="caret"></b>
-                    </a>
-                    <ul class="dropdown-menu dropdown-with-icons">
-                        <li>
-                            <a href="/menu-yiyecek">
-                                <i class="pe-7s-comment"></i> Sıcak İçecekler
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/menu-icecek">
-                                <i class="pe-7s-news-paper"></i> Kahveler
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/menu-icecek">
-                                <i class="pe-7s-news-paper"></i> Buzlu İçecekler
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/menu-icecek">
-                                <i class="pe-7s-news-paper"></i> Bitkisel Çaylar
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/menu-icecek">
-                                <i class="pe-7s-news-paper"></i> Soğuk İçecekler
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/menu-icecek">
-                                <i class="pe-7s-news-paper"></i> Aperatifler
-                            </a>
-                        </li>
-                    </ul>
-                </li>
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                        Alışveriş
-                        <b class="caret"></b>
-                    </a>
-                    <ul class="dropdown-menu dropdown-with-icons">
-                        <li>
-                            <a href="/shop-kahve">
-                                <i class="pe-7s-ticket"></i> Kahveler
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/shop-makina">
-                                <i class="pe-7s-piggy"></i> Makinalar
-                            </a>
-                        </li>
-                    </ul>
-                </li>
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                        Eğitimler
-                        <b class="caret"></b>
-                    </a>
-                    <ul class="dropdown-menu dropdown-with-icons">
-                        <li>
-                            <a href="#">
-                                <i class="pe-7s-mail-open-file"></i> Contact Us
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="pe-7s-info"></i> About Us
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="pe-7s-cash"></i> Pricing Page
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="pe-7s-gift"></i> More (soon)
-                            </a>
-                        </li>
-                    </ul>
-                </li>
-                <li><a href="https://kaavekeyfi.com/shop" class="btn btn-round btn-default"><i class="fa fa-coffee"></i> 10</a></li>
+
+                <li><a href="https://www.instagram.com/__kaave__/" class="btn btn-round btn-default"><i class="fa fa-instagram"></i></a></li>
+                <li><a href="https://www.facebook.com/kaavekeyfi/" class="btn btn-round btn-default"><i class="fa fa-facebook"></i></a></li>
+
+
+                <li><a href="https://kaavekeyfi.com/kaavecoin" class="btn btn-round btn-default"><i class="fa fa-coffee"></i> 10</a></li>
+                <li><a href="https://kaavekeyfi.com/shop" class="btn btn-round btn-default"><i class="fa fa-shopping-cart"></i> 3</a></li>
+
             </ul>
 
         </div><!-- /.navbar-collapse -->
@@ -264,7 +178,7 @@
                     </a>
                 </div>
                 <div class="col-md-3">
-                    <a href="" class="btn btn-round btn-fill btn-social btn-instagram">
+                    <a href="https://www.instagram.com/__kaave__/" class="btn btn-round btn-fill btn-social btn-instagram">
                         <i class="fa fa-instagram"></i> Instagram
                     </a>
                 </div>
@@ -272,131 +186,150 @@
         </div>
     </div>
 
+    <footer class="footer footer-big footer-transparent" style="background-image: url('/assets/img/coffee/seed-paralax.jpg')">
 
-    <footer class="footer footer-big">
         <!-- .footer-black is another class for the footer, for the transparent version, we recommend you to change the url of the image with your favourite image.          -->
 
         <div class="container">
             <div class="row">
                 <div class="col-md-2">
-                    <h5 class="title">Company</h5>
-                    <nav>
-                        <ul>
-                            <li>
-                                <a href="#" >
-                                    Home
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    Find offers
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    Discover Projects
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    Our Portfolio
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    About Us
-                                </a>
-                            </li>
-                        </ul>
-                    </nav>
+                    <div class="form-group">
+                        <select name="huge" class="selectpicker" data-style="btn-default btn-fill btn-block" data-menu-style="dropdown-blue">
+
+                            <option value="de">Deutsch</option>
+                            <option value="en">English</option>
+                            <option value="es">Español</option>
+                            <option value="el">Eλληνικά</option>
+                            <option value="fr">Français</option>
+                            <option value="it">Italiano</option>
+                            <option value="tr" selected="">Türkçe</option>
+                            <option value="ru">Русский</option>
+                            <option value="zh">中文 (简体)</option>
+                            <option value="zh-TW">中文 (繁體)</option>
+                            <option value="ja">日本語</option>
+                            <option value="ko">한국어</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <select name="huge" class="selectpicker" data-style="btn-default btn-fill btn-block" data-menu-style="dropdown-blue">
+                            <option value="TRL" selected="">TL</option>
+                            <option value="EUR">EUR</option>
+                            <option value="GBP">GBP</option>
+                            <option value="RUB">RUB</option>
+                            <option value="USD">USD</option>
+                        </select>
+                    </div>
+
                 </div>
                 <div class="col-md-3 col-md-offset-1">
-                    <h5 class="title"> Support</h5>
+                    <h5 class="title">KAAVE Keyfi</h5>
                     <nav>
                         <ul>
                             <li>
-                                <a href="#">
-                                    Contact Us
+                                <a href="#" >
+                                    Anasayfa
                                 </a>
                             </li>
                             <li>
                                 <a href="#">
-                                    How it works
+                                    Hakkımızda
                                 </a>
                             </li>
                             <li>
                                 <a href="#">
-                                    24/7 Available
+                                    Hizmetler
                                 </a>
                             </li>
                             <li>
                                 <a href="#">
-                                    We are hiring
+                                    Ürünler
                                 </a>
                             </li>
                             <li>
                                 <a href="#">
-                                    Send Info
+                                    Eğitimler
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" class="text-info">
+                                    Bizimle çalışın!
                                 </a>
                             </li>
                         </ul>
                     </nav>
                 </div>
                 <div class="col-md-3">
-                    <h5 class="title"> Help</h5>
+                    <h5 class="title">Yardım ve Destek</h5>
                     <nav>
                         <ul>
                             <li>
                                 <a href="#">
-                                    Contact Us
+                                    Bize Ulaşın
                                 </a>
                             </li>
                             <li>
                                 <a href="#">
-                                    Terms & Conditions
+                                    Çalışma şartları
                                 </a>
                             </li>
                             <li>
                                 <a href="#">
-                                    Company Policy
+                                    Kullanım Hakları
                                 </a>
                             </li>
                             <li>
                                 <a href="#">
-                                    Money Back
+                                    Gizlilik Politikası
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    E-Ticaret
                                 </a>
                             </li>
                         </ul>
                     </nav>
-
                 </div>
-
                 <div class="col-md-3">
-                    <h5 class="title">Latest News</h5>
-                    <nav>
+                    <h5 class="title">Happy people</h5>
+                    <nav class="numbers">
                         <ul>
                             <li>
-                                <a href="#" >
-                                    <i class="fa fa-twitter"></i> <b>Get Shit Done</b>
-                                    The best kit in the market is here, just give it a try and let us...
-                                    <hr class="hr-small">
-                                </a>
+                                <h4>13.723 <small>accounts</small></h4>
                             </li>
                             <li>
-                                <a href="#" >
-                                    <i class="fa fa-twitter"></i>
-                                    We've just been featured on <b> Awwwards Website</b>! Thank you everybody for...
-                                </a>
+                                <h4>55.234 <small>downloads</small></h4>
+                            </li>
+                            <li>
+                                <h4>99.092 <small>shares</small></h4>
                             </li>
 
                         </ul>
                     </nav>
                 </div>
-
             </div>
             <hr />
+            <div class="social-area text-center">
+                <h5>Bize katılın</h5>
+                <a href="https://www.facebook.com/kaavekeyfi/" class="btn btn-social btn-round">
+                    <i class="fa fa-facebook"></i>
+                </a>
+
+                <a href="#"  class="btn btn-social btn-round">
+                    <i class="fa fa-twitter"></i>
+                </a>
+
+                <a href="https://www.instagram.com/__kaave__/" class="btn btn-social btn-round">
+                    <i class="fa fa-instagram"></i>
+                </a>
+
+                <a href="#" class="btn btn-social btn-round">
+                    <i class="fa fa-linkedin"></i>
+                </a>
+            </div>
+
             <div class="copyright">
-                1999 - 2019 &copy; SiyahKare
+               1999 &copy; 2019 SiyahKare
             </div>
         </div>
     </footer>
@@ -422,6 +355,9 @@
 
 <!--  Get Shit Done Kit PRO Core javascript 	 -->
 <script src="/assets/js/get-shit-done.js"></script>
+
+<!--  Get Shit Done Kit PRO methods used for demo purpose      -->
+<script src="assets/js/demo.js"></script>
 
 <script type="text/javascript">
     var big_image;
