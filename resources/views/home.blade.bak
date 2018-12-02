@@ -43,7 +43,10 @@
 
                 <li><a href="https://www.instagram.com/__kaave__/" class="btn btn-round btn-default"><i class="fa fa-instagram"></i></a></li>
                 <li><a href="https://www.facebook.com/kaavekeyfi/" class="btn btn-round btn-default"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#" class="btn btn-round btn-default"><i class="fa fa-twitter"></i></a></li>
+
+
+                <li><a href="https://kaavekeyfi.com/kaavecoin" class="btn btn-round btn-default"><i class="fa fa-coffee"></i> 10</a></li>
+                <li><a href="https://kaavekeyfi.com/shop" class="btn btn-round btn-default"><i class="fa fa-shopping-cart"></i> 3</a></li>
 
             </ul>
 
@@ -54,7 +57,7 @@
 <div class="wrapper">
     <div class="parallax filter-black">
         <div class="parallax-image">
-            <img src="/assets/img/coffee/beans.jpg" alt="Kaave Keyfi" />
+            <img src="/assets/img/picto/bg18.png" alt="..." />
         </div>
         <div class="small-info">
             <h1>Kaave Keyfi</h1>
@@ -133,33 +136,16 @@
 
                 <div class="col-md-6">
 
-                    <iframe width="426" height="240" src="https://www.youtube-nocookie.com/embed/EhMgsuAq-EI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    <iframe width="426" height="240" src="https://www.youtube-nocookie.com/embed/kOyTjT4MH1E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
                 </div>
 
                 <div class="col-md-6">
-
-                    <iframe width="426" height="240" src="https://www.youtube-nocookie.com/embed/_siPxWmjq18" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-                </div>
-
-            </div>
-
-            <div class="row">
-
-                <div class="col-md-6">
-
-                    <iframe width="426" height="240" src="https://www.youtube-nocookie.com/embed/abRBjwNBAy8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-                </div>
-
-                <div class="col-md-6">
-
                     <iframe width="426" height="240" src="https://www.youtube-nocookie.com/embed/XHv82y43Xto" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
                 </div>
-
             </div>
+
+
 
 
 
