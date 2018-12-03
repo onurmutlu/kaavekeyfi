@@ -54,7 +54,7 @@
 <div class="wrapper">
     <div class="parallax filter-black">
         <div class="parallax-image">
-            <img src="/assets/img/coffee/beans.jpg" alt="Kaave Keyfi" />
+            <img src="/assets/img/header.jpg" alt="Kaave Keyfi" />
         </div>
         <div class="small-info">
             <h1>Kaave Keyfi</h1>
