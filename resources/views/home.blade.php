@@ -305,21 +305,9 @@
                     </nav>
                 </div>
                 <div class="col-md-3">
-                    <h5 class="title">Happy people</h5>
-                    <nav class="numbers">
-                        <ul>
-                            <li>
-                                <h4>13.723 <small>accounts</small></h4>
-                            </li>
-                            <li>
-                                <h4>55.234 <small>downloads</small></h4>
-                            </li>
-                            <li>
-                                <h4>99.092 <small>shares</small></h4>
-                            </li>
+                    
+                    <img src="https://siyahkare.com/assets/image/logo.png" />
 
-                        </ul>
-                    </nav>
                 </div>
             </div>
             <hr />
