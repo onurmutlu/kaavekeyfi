@@ -43,7 +43,7 @@
 
                 <li><a href="https://www.instagram.com/__kaave__/" class="btn btn-round btn-default"><i class="fa fa-instagram"></i></a></li>
                 <li><a href="https://www.facebook.com/kaavekeyfi/" class="btn btn-round btn-default"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#" class="btn btn-round btn-default"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="https://www.twitter.com/kaavekeyfi1" class="btn btn-round btn-default"><i class="fa fa-twitter"></i></a></li>
 
             </ul>
 
@@ -305,7 +305,7 @@
                     </nav>
                 </div>
                 <div class="col-md-3">
-                    
+
                     <img src="https://siyahkare.com/assets/image/logo.png" />
 
                 </div>
